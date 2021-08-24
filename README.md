@@ -1,6 +1,8 @@
-# PGBSNH20 - Göteborg
+# .NET-utvecklare - PGBSNH20 - Göteborg
 
 <https://github.com/PGBSNH20>
+
+[Utbildnings beskrivning](https://teknikhogskolan.se/utbildningar/net-utvecklare/)
 
 Kurser:
 * [Dataåtkomst](https://pgbsnh20.github.io/PGBSNH20-dataatkomst/)
